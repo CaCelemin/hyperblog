@@ -1,6 +1,8 @@
 Este es el cuerso profesional de git y github
 
-Vamos a aprender mucho en este cuerso. 
+Vamos a aprender mucho en este cuerso. Este
 
 Vamos a ver como nos va. 
 
+
+Todo esto es una locura de aprendizaje
